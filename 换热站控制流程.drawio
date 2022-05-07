@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T07:14:16.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="BpPl2tWkGx4SFhTL468x" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T07:17:10.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ml6CzduABx3mwQPnBAuj" version="18.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -97,7 +97,7 @@
         <mxCell id="nWi5VwVpe2gakzUOj9-z-30" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;动态检测&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;因动态检测情况复杂，需要将相关信息一并显示出来方便调试人员进行判断。比如：一次侧压差数据，温差数据（如果有温度运行），热表数据（流量与电调阀开度做对比或设置相关度系数）。二次侧同理。其中水箱液位信号现场测试不易操作，可以在水箱安装上下两个测试按键（用尽可能与真实信号等同），等同于液位传感器信号。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="750" width="190" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="nWi5VwVpe2gakzUOj9-z-31" value="提示信息：XX仪表通讯异常" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nWi5VwVpe2gakzUOj9-z-31" value="提示信息：提示对应错误代码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="402.5" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nWi5VwVpe2gakzUOj9-z-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
